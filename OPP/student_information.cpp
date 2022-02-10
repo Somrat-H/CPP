@@ -5,7 +5,8 @@ using namespace std;
 
 #define SUBJECT 3
 
-class Student{
+class Student
+{
     private:
     string name;
     int roll;
